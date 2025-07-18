@@ -118,8 +118,8 @@ _Sertakan screenshot hasil pengujian GET, POST, PUT, DELETE di Postman/Thunder C
 ---
 
 ## Author
-- Nama: **[Nama Kamu]**
-- NIM: **[NIM Kamu]**
+- Nama: **Farid Fazri Fadilah**
+- NIM: **14523214**
 - Mata Kuliah: **Pemrograman Web**
 
 ---
