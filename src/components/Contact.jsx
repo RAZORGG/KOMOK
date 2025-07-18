@@ -1,4 +1,3 @@
-import React from 'react'
 import Bg from '../assets/Bg.png'
 import { motion } from 'framer-motion'
 

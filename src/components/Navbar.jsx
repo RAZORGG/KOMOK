@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import Logo from "../assets/Logo.png"
 import { Menu, X } from 'lucide-react'
 import ResponsiveMenu from './ResponsiveMenu'

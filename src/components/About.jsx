@@ -1,4 +1,3 @@
-import React from 'react'
 import Bg from '../assets/Bg.png'
 import Lottie from 'lottie-react';
 import coffee from '../assets/Coffeeanime.json'

@@ -1,4 +1,3 @@
-import React from 'react'
 import Img1 from '../assets/coffee-white.png'
 import Img2 from '../assets/coffee2.png'
 import { motion } from 'framer-motion'
@@ -46,7 +45,7 @@ const Menu = () => {
         transition={{duration:1.5, delay:0.5}}
         className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center'>
             {MenuData.map((menu)=> (
-                <div className='rounded-2xl bg-white hover:bg-amber-900 transition-all hover:text-white relative shadow-xl duration-high group max-w-[300px]'>
+                <div key={menu.id} className='rounded-2xl bg-white hover:bg-amber-900 transition-all hover:text-white relative shadow-xl duration-high group max-w-[300px]'>
                     <div className='h-[122px]'>
                         <img src={menu.img} alt="" className='max-w-[200px] block mx-auto transform -translate-y-14 group-hover:scale-105 group-hover:rotate-6 duration-300'/>
                     </div>
