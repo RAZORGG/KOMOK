@@ -113,7 +113,8 @@ Buka di browser: [http://localhost:5173](http://localhost:5173)
 ---
 
 ## Screenshot Pengujian API
-_Sertakan screenshot hasil pengujian GET, POST, PUT, DELETE di Postman/Thunder Client, tunjukkan URL, method, body, response, dan status code._
+_![WhatsApp Image 2025-07-19 at 02 46 57](https://github.com/user-attachments/assets/fc11abc7-9ca0-4a72-8a6b-d257f8c37e68)
+_
 
 ---
 
